@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on implementing a test automation framework <br>🌱 I’m currently learning Playwright <br>💬 Ask me about test automation<br>⚡ Fun fact - I'm lazy but smart!
+🔭 I’m currently working on implementing a test automation framework <br>🌱 I’m currently learning Playwright <br>💬 Ask me about test automation<br>⚡ Fun fact: I'm lazy but smart 🤓
 
 
 # 💻 Tech Stack:
@@ -8,8 +8,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=nthabeleng07&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nthabeleng07&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nthabeleng07&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nthabeleng07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

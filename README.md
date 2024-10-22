@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on implementing a test automation framework <br>🌱 I’m currently learning Playwright <br>💬 Ask me about test automation<br>⚡ Fun fact: I'm lazy, but smart 🤓
+🔭 I’m currently working on implementing a test automation framework <br>🌱 I’m currently learning Playwright <br>💬 Ask me about test automation<br>⚡ Fun fact: avocados 🥑 are actually fruits, not vegetables
 
 
 # 💻 Tech Stack:
